@@ -8,7 +8,7 @@ Built on **[Klipnok Ronin](https://klipnok.com/ronin/)**. The original desktop c
 
 [**Download for Mac — DMG**](https://github.com/doctor-ew/legends-ronin-downloads/releases/latest)
 
-![Legends Ronin desktop portal demo](assets/desktop-demo.gif)
+![Legends Ronin action montage: saber fights, pogo hops, and a green portal](assets/desktop-demo.gif)
 
 ## What it does
 
