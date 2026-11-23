@@ -1,0 +1,5 @@
+.DS_Store
+packages/
+staging/
+dmg-check/
+assets/preview.png
