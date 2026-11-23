@@ -23,6 +23,12 @@ Built on **[Klipnok Ronin](https://klipnok.com/ronin/)**. The original desktop c
 
 The cast includes Star Wars and Rebels, the turtles, Rick and Morty, Doctor Strange and Doom, X-Men, G.I. Joe, Lower Decks, Cartoon Planet, and more.
 
+## New in 0.26.0
+
+- **Guest upgrades:** Strange and Doom alternate flights and their colored portals; Rick uses green portal travel; Nightcrawler flips, backflips, handstands, and bamfs; Boba uses his jetpack.
+- **Transformer guests:** add **Optimus Prime** or **Starscream** from **Mix & match guests · up to 12 → Visitors**. They transform independently alongside your existing cast.
+- New guest powers have staggered cooldowns, with at most three active at once. The 30 fps lower-CPU default remains available.
+
 ## Requirements
 
 - An **Apple silicon Mac**.
@@ -46,6 +52,7 @@ The app lives in the menu bar. Look for **Legends** at the top of your screen.
 | --- | --- |
 | Choose a cast | Open the **Legends** menu, or right-click a character |
 | Add or remove guests | **Mix & match guests · up to 12** |
+| Add a Transformer guest | **Mix & match guests · up to 12 → Visitors → Optimus Prime / Starscream** |
 | Trigger a special | Give a character a quick click |
 | Move a character | Click and drag |
 | Start a fight or encounter | **Skirmish now** or **Encounter now** |
@@ -59,7 +66,7 @@ Specials vary by character and current activity. Guests can overlap with your ma
 
 ## Characters and specials
 
-These profiles describe each character in their main cast. Mixed guests use a smaller shared set of behaviors, so some cast-specific routines are simplified. Most specials also happen automatically; a quick click requests a reaction when the character is available. Weapons listed here are the equipment drawn in this build, not a promise that every character has a separate projectile animation.
+These profiles describe each character in their main cast. Mixed guests also have dedicated specials for Boba, Doom, Strange, Rick, Nightcrawler, the Rebels, astromechs, and Lower Decks; some other cast-specific routines remain simplified. Most specials also happen automatically; a quick click requests a reaction when the character is available. Weapons listed here are the equipment drawn in this build, not a promise that every character has a separate projectile animation.
 
 ### Teenage Mutant Ninja Turtles
 
@@ -210,8 +217,8 @@ Selecting a crew member brings all four.
 | X-wing | Flight and laser exchanges |
 | TIE fighters | Flight and laser exchanges |
 | AT-AT | Walks along the bottom of the screen and fires lasers |
-| Optimus Prime | Transforms between robot and truck |
-| Starscream | Transforms between robot and jet; lands before changing back |
+| Optimus Prime | Transforms between robot and truck; also available as an individual Visitor guest |
+| Starscream | Transforms between robot and jet; lands before changing back; also available as an individual Visitor guest |
 | KITT | Moving scanner light and Turbo Boost jumps |
 | TARDIS | Flight, fading dematerialization and rematerialization, and a Doctor who exits and re-enters |
 | The Tenth Doctor | Walks outside the TARDIS and makes a sonic-style glow gesture |
