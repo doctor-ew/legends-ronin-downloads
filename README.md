@@ -4,6 +4,8 @@
 
 A playful macOS desktop companion: familiar characters wander, grapple, fly, open portals, and get into tiny crossover fights around your windows. A little 1998. A lot of chaos.
 
+Built on **[Klipnok Ronin](https://klipnok.com/ronin/)**. The original desktop companion and its movement engine are the work of Klipnok; Legends Ronin adds the character artwork and crossover behaviors. Please visit the original Ronin project and support its creator.
+
 [**Download for Mac — DMG**](https://github.com/doctor-ew/legends-ronin-downloads/releases/latest)
 
 ![Legends Ronin desktop portal demo](assets/desktop-demo.gif)
@@ -55,7 +57,7 @@ Specials vary by character and current activity. Guests can overlap with your ma
 
 ## About this build
 
-Legends Ronin is a fan-made character and behavior layer built on the supplied **Klipnok Ronin 1.0.9** desktop engine. Credit for that engine belongs to its original creator. Character names and likenesses belong to their respective owners. This project is not affiliated with or endorsed by those owners.
+Legends Ronin is a fan-made character and behavior layer built on the supplied **[Klipnok Ronin 1.0.9](https://klipnok.com/ronin/)** desktop engine. Credit for the original application and engine belongs to Klipnok. Character names and likenesses belong to their respective owners. This project is not affiliated with or endorsed by those owners.
 
 This public repository contains the README and demo media. Packaged app downloads are attached to [Releases](https://github.com/doctor-ew/legends-ronin-downloads/releases). Source code is not included, and this repository does not grant rights to third-party code or characters.
 
