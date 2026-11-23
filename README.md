@@ -8,7 +8,9 @@ Built on **[Klipnok Ronin](https://klipnok.com/ronin/)**. The original desktop c
 
 [**Download for Mac — DMG**](https://github.com/doctor-ew/legends-ronin-downloads/releases/latest)
 
-![Legends Ronin action montage: saber fights, pogo hops, and a green portal](assets/desktop-demo.gif)
+![Legends Ronin action montage: saber fights, pogo hops, and a green portal](assets/desktop-action-montage-v2.gif)
+
+[Open the 12-second action GIF directly](assets/desktop-action-montage-v2.gif) · Saber flips, pogo hops, and portal trouble.
 
 ## What it does
 
@@ -54,6 +56,171 @@ The app lives in the menu bar. Look for **Legends** at the top of your screen.
 | Exit | **Quit Legends Ronin** |
 
 Specials vary by character and current activity. Guests can overlap with your main cast. More characters and effects increase CPU use; 30 fps is the default.
+
+## Characters and specials
+
+These profiles describe each character in their main cast. Mixed guests use a smaller shared set of behaviors, so some cast-specific routines are simplified. Most specials also happen automatically; a quick click requests a reaction when the character is available. Weapons listed here are the equipment drawn in this build, not a promise that every character has a separate projectile animation.
+
+### Teenage Mutant Ninja Turtles
+
+Selecting a turtle brings all four brothers. They keep the original Ronin traversal and grappling; mixed guests also have pizza breaks.
+
+| Character | Equipment and specials |
+| --- | --- |
+| Leonardo | Twin katana, grappling, acrobatic traversal, and melee encounters |
+| Raphael | Twin sai, grappling, acrobatic traversal, and melee encounters |
+| Donatello | Bo staff, grappling, acrobatic traversal, and melee encounters |
+| Michelangelo | Animated nunchucks, grappling, acrobatic traversal, and melee encounters |
+
+### Star Wars
+
+| Character | Equipment and specials |
+| --- | --- |
+| Darth Vader | Force jumps and flips, returning red saber throws, and a paired Jedi duel; visiting Vader alternates flips and saber throws |
+| Jedi | Blue saber, Force traversal, returning saber throws, and a paired Vader duel |
+| Mandalorian | Amban rifle, grapple and swing traversal, cartoon Jawa disintegration encounters, and Grogu following in his pram |
+| Boba Fett | Blaster, grappling, jetpack flight, and gear-checking idle behavior |
+| Darth Maul | Double-ended red saber and acrobatic three-way combat against Qui-Gon and Obi-Wan; visiting Maul alternates flips and saber throws |
+| Qui-Gon Jinn | Green saber, flips, parries, and coordinated combat against Maul; visiting saber throws |
+| Obi-Wan Kenobi | Blue saber, flips, parries, and coordinated combat against Maul; visiting saber throws |
+
+### Rebels
+
+Selecting the Rebels brings all seven together.
+
+| Character | Equipment and specials |
+| --- | --- |
+| Kanan Jarrus | Returning saber throw alternating with a Force flip |
+| Sabine Wren | Jetpack flight alternating with grappling; blaster attacks |
+| Ezra Bridger | Lightsaber that switches to blaster mode for ranged shots |
+| Zeb Orrelios | Staff combat and acrobatic flips |
+| Hera Syndulla | Blaster shots |
+| Chopper | Two upper arms waving upward and an electrical zap |
+| Ahsoka Tano | Twin white blades, an offhand reverse grip, and acrobatic Force flips |
+
+### Astromechs
+
+| Character | Specials |
+| --- | --- |
+| R2-D2 | Jet-assisted flight |
+| R5-D4 | Motivator blowout, smoke, and a wobble |
+| BT-1 | Blaster fire and missiles |
+
+### The Bad Batch
+
+The six share a cast and participate in cross-cast ranged combat. Their equipment and movement differ; they do not each have a separate elaborate power animation.
+
+| Character | Equipment and specials |
+| --- | --- |
+| Hunter | Blaster, melee encounters, and jump flips |
+| Tech | Blaster fire and hopping traversal |
+| Wrecker | Heavy blaster, melee encounters, and hopping traversal |
+| Crosshair | Long rifle, ranged attacks, and hopping traversal |
+| Echo | Blaster, melee encounters, and jump flips |
+| Omega | Bow-style ranged weapon and hopping traversal |
+
+### Comics and Eternia
+
+| Character | Equipment and specials |
+| --- | --- |
+| Batman | Batarang equipment, grappling, and melee encounters |
+| Spider-Man | Web-style guest grapple, native traversal, and melee encounters |
+| Doctor Doom | Levitation, green portals, and green thrown energy shards |
+| Doctor Strange | Flight, orange portals, and orange thrown energy shards |
+| He-Man | Sword of Power, sword-raised lightning, and a paired Skeletor duel |
+| Skeletor | Havoc Staff and a paired He-Man duel |
+
+### X-Men
+
+Selecting an X-Man brings all seven together.
+
+| Character | Equipment and specials |
+| --- | --- |
+| Wolverine | Claw-assisted window-edge climbing and melee encounters |
+| Nightcrawler | Smoky “bamf” teleportation, flips, backflips, and a handstand variant |
+| Storm | Flight, lightning effects, and a thundercloud-and-zap special |
+| Jean Grey | Flight, orbiting energy effects, and ranged energy attacks |
+| Gambit | Charged-card throws |
+| Cyclops | Optic beams |
+| Magneto | Flight, orbiting metal effects, and ranged energy attacks |
+
+### Rick and Morty
+
+| Character | Specials |
+| --- | --- |
+| Rick | Portal gun, green portal travel, and a Morty companion |
+| Morty | Accompanies Rick, native traversal, and panicky idle gestures |
+
+### G.I. Joe and Cobra
+
+The confrontation cast combines Snake Eyes and Scarlett with Cobra Commander and Destro.
+
+| Character | Equipment and specials |
+| --- | --- |
+| Scarlett | Crossbow-style ranged weapon and grappling |
+| Snake Eyes | Katana, grapples, flips, and smoke effects in the confrontation cast |
+| Cobra Commander | Blaster attacks, evasive movement, and a speech routine as a mixed guest |
+| Destro | Blaster attacks and jet-assisted evasive movement |
+
+### Powerpuff Girls
+
+| Character | Specials |
+| --- | --- |
+| Blossom | Horizontal flight, turns, window-ledge landings, and behind-window passes |
+| Bubbles | Horizontal flight, turns, window-ledge landings, and behind-window passes |
+| Buttercup | Horizontal flight, turns, window-ledge landings, and behind-window passes |
+
+Behind-window visibility depends on the other app’s transparency.
+
+### Cartoon Planet and Flaming Carrot
+
+| Character | Specials |
+| --- | --- |
+| Space Ghost | Horizontal flight, window perching, and wrist beams |
+| Zorak | Articulated hopping and melee encounters |
+| Brak | A dance with floating musical notes |
+| Flaming Carrot | Pogo-stick hops and melee encounters |
+
+Space Ghost, Zorak, and Brak appear together in their main cast.
+
+### Danger Mouse
+
+| Character or vehicle | Specials |
+| --- | --- |
+| Danger Mouse | Gets out of the shared car, grapples to ledges, and returns to the car |
+| Penfold | Gets out, clambers around the car or ledges, and returns to the car |
+| Danger Car | Drives with Danger Mouse and Penfold seated inside |
+
+### Lower Decks
+
+Selecting a crew member brings all four.
+
+| Character | Specials |
+| --- | --- |
+| Mariner | Phaser burst and an acrobatic flip |
+| Boimler | Panicky scrambling and an “Oh no” caption |
+| Tendi | Tricorder-style scan beams |
+| Rutherford | A repair drone with sparks |
+
+### Vehicles and transforming visitors
+
+| Character or vehicle | Specials |
+| --- | --- |
+| Millennium Falcon | Flight, laser exchanges, and a clickable speed boost |
+| X-wing | Flight and laser exchanges |
+| TIE fighters | Flight and laser exchanges |
+| AT-AT | Walks along the bottom of the screen and fires lasers |
+| Optimus Prime | Transforms between robot and truck |
+| Starscream | Transforms between robot and jet; lands before changing back |
+| KITT | Moving scanner light and Turbo Boost jumps |
+| TARDIS | Flight, fading dematerialization and rematerialization, and a Doctor who exits and re-enters |
+| The Tenth Doctor | Walks outside the TARDIS and makes a sonic-style glow gesture |
+
+### Supporting cameos and shared interactions
+
+**Grogu** follows Mando in a hovering pram, including when Mando is a mixed guest. **Jawas** appear in Mando’s brief cartoon rifle encounters. These are supporting figures rather than separate cast selections.
+
+Eligible characters can take part in cross-cast melee or ranged encounters, dodges, and recoverable hit reactions. The menu also offers a ledge retrieval, a Cobra chase, and a grapple rescue. These are shared encounters rather than a unique special for every character.
 
 ## About this build
 
