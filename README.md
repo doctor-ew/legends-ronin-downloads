@@ -8,11 +8,11 @@ Built on **[Klipnok Ronin](https://klipnok.com/ronin/)**. The original desktop c
 
 [**Download for Mac — DMG**](https://github.com/doctor-ew/legends-ronin-downloads/releases/latest)
 
-![Character-only demo: saber combat, Transformers, and ATHF](assets/character-demo-v3.gif)
+![Character-only demo: saber combat, Transformers, and ATHF](assets/character-demo-v4.gif)
 
-[Open the 13-second GIF directly](assets/character-demo-v3.gif) · Combat, Transformers, and ATHF.
+[Open the 13-second GIF directly](assets/character-demo-v4.gif) · Combat, Transformers, and ATHF.
 
-**Videos:** [40-second recap](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.29.0/Legends-Ronin-Recap-40s.mp4) · [Combat](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.29.0/Legends-Ronin-Combat-12s.mp4) · [Transformers](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.29.0/Legends-Ronin-Transformers-16s.mp4) · [ATHF + Carl](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.29.0/Legends-Ronin-ATHF-12s.mp4)
+**Videos:** [40-second recap](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.29.1/Legends-Ronin-Recap-40s.mp4) · [Combat](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.29.1/Legends-Ronin-Combat-12s.mp4) · [Transformers](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.29.1/Legends-Ronin-Transformers-16s.mp4) · [ATHF + Carl](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.29.1/Legends-Ronin-ATHF-12s.mp4)
 
 All videos and GIFs are silent, character-only animations. No desktop, documents, or code appear in this media.
 
@@ -27,7 +27,11 @@ All videos and GIFs are silent, character-only animations. No desktop, documents
 
 The cast includes Star Wars and Rebels, the turtles, Rick and Morty, Doctor Strange and Doom, X-Men, G.I. Joe, Lower Decks, Cartoon Planet, and more.
 
-## New in 0.29.0
+## New in 0.29.1
+
+Carl is 28% smaller. ATHF faces have been redrawn: Shake’s half-lidded expression, Frylock’s red face and black goatee, Meatwad’s irregular eyes and one-tooth mouth, and Carl’s bald crown and moustache.
+
+## Added in 0.29.0
 
 **Aqua Teen Hunger Force, plus Carl:** Master Shake fires drink blasts and complains; Frylock hovers and fires eye beams; Meatwad rolls and squishes with a cowboy-hat gag; Carl stomps, throws his drink, and complains about his pool.
 
