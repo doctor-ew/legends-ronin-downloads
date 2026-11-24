@@ -23,7 +23,18 @@ Built on **[Klipnok Ronin](https://klipnok.com/ronin/)**. The original desktop c
 
 The cast includes Star Wars and Rebels, the turtles, Rick and Morty, Doctor Strange and Doom, X-Men, G.I. Joe, Lower Decks, Cartoon Planet, and more.
 
-## New in 0.27.1
+## New in 0.28.0
+
+- **Lightsaber deflections:** Vader, Jedi, Maul, Qui-Gon, Obi-Wan, Kanan, Ezra, and Ahsoka can send cross-cast ranged shots back toward the attacker while holding their saber. Vader is especially good at it.
+- **Damaging saber throws:** main-cast and visiting returning sabers can damage characters they cross, up to three hits per target per throw, spaced apart.
+- **Vader’s Force moves:** lift and toss, pull, and push nearby characters, dealing damage on release. These happen automatically; clicking Vader also tries a ready Force move before his saber special.
+- **Transformer combat:** Optimus, Starscream, Grimlock, Soundwave, and his deployed tapes now give and take shared combat damage. Brief health bars show damage; shared knockdowns recover after four seconds.
+- **Ninja arsenal:** Snake Eyes and the turtles throw weapons and shuriken, and grapple away from crowded fights. Click to cycle their moves when ready. Lightsaber sweeps and throws can sever shared-layer grapple ropes.
+- **Duel trio scale:** Maul, Qui-Gon, and Obi-Wan use full adult proportions.
+
+Cross-cast combat must be enabled for damage. Force moves have a cooldown and one active target per scene; projectiles reflect at most once. Deflection is a chance, not immunity. Rope cutting covers guest grapples and the new escape grapples. Shared combat health is separate from the original paired-duel health.
+
+## Artwork updates in 0.27.1
 
 Soundwave’s cassette deck has a cleaner silhouette, visible reels, and playback controls. Laserbeak has been redrawn as a mechanical bird with swept, flapping wings, hooked beak, claws, and cannons. Rumble has clearer proportions, a defined face, and shorter alternating piledriver strokes.
 
@@ -94,7 +105,7 @@ Selecting a turtle brings all four brothers. They keep the original Ronin traver
 
 | Character | Equipment and specials |
 | --- | --- |
-| Darth Vader | Force jumps and flips, returning red saber throws, and a paired Jedi duel; visiting Vader alternates flips and saber throws |
+| Darth Vader | Damaging Force lifts, pulls, and pushes; ranged-shot deflection; Force jumps and flips, returning red saber throws, and a paired Jedi duel; visiting Vader alternates flips and saber throws |
 | Jedi | Blue saber, Force traversal, returning saber throws, and a paired Vader duel |
 | Mandalorian | Amban rifle, grapple and swing traversal, cartoon Jawa disintegration encounters, and Grogu following in his pram |
 | Boba Fett | Blaster, grappling, jetpack flight, and gear-checking idle behavior |
