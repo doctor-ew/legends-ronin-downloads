@@ -8,11 +8,11 @@ Built on **[Klipnok Ronin](https://klipnok.com/ronin/)**. The original desktop c
 
 [**Download for Mac — DMG**](https://github.com/doctor-ew/legends-ronin-downloads/releases/latest)
 
-![Character-only demo: saber combat, Transformers, and ATHF](assets/character-demo-v4.gif)
+![Character-only demo: saber combat, Transformers, and ATHF](assets/character-demo-v5.gif)
 
-[Open the 13-second GIF directly](assets/character-demo-v4.gif) · Combat, Transformers, and ATHF.
+[Open the 17-second GIF directly](assets/character-demo-v5.gif) · Combat, Transformers, ATHF, and Mooninites.
 
-**Videos:** [40-second recap](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.29.1/Legends-Ronin-Recap-40s.mp4) · [Combat](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.29.1/Legends-Ronin-Combat-12s.mp4) · [Transformers](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.29.1/Legends-Ronin-Transformers-16s.mp4) · [ATHF + Carl](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.29.1/Legends-Ronin-ATHF-12s.mp4)
+**Videos:** [Mooninites](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.0/Legends-Ronin-Mooninites-12s.mp4) · [40-second recap](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.0/Legends-Ronin-Recap-40s.mp4) · [Combat](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.0/Legends-Ronin-Combat-12s.mp4) · [Transformers](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.0/Legends-Ronin-Transformers-16s.mp4) · [ATHF + Carl](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.0/Legends-Ronin-ATHF-12s.mp4)
 
 All videos and GIFs are silent, character-only animations. No desktop, documents, or code appear in this media.
 
@@ -27,13 +27,26 @@ All videos and GIFs are silent, character-only animations. No desktop, documents
 
 The cast includes Star Wars and Rebels, the turtles, Rick and Morty, Doctor Strange and Doom, X-Men, G.I. Joe, Lower Decks, Cartoon Planet, and more.
 
-## New in 0.29.1
+## Mooninites, smiles, and halos (0.31.0)
+
+Choose **Mooninites · unite** for Ignignokt and Err. They jump together, lock into a combined pose, fire a slow square Quad Laser, then separate. Both also appear under **Mix & match guests · up to 12 → Mooninites**; add both visitors for their combine special. The pair participates in the randomizer.
+
+Meatwad has a crooked smile, rolling movement, and a dance. Temporary gold halos appear above knocked-out characters and disappear on recovery. Frylock now uses the supplied angular face references, eye beams, and an aimed fry blaster; Shake fires from his straw.
+
+## ATHF attacks and motion
+
+- **Frylock:** calmer face, beams from both eyes, and a fry used as an aimed blaster.
+- **Master Shake:** flatter artwork, restrained gestures, and blasts from the straw opening.
+- **Meatwad:** rolls while traveling and alternates rolling with a dance. Click when ready to cycle his specials.
+- Carl keeps his smaller size.
+
+## Face updates in 0.29.1
 
 Carl is 28% smaller. ATHF faces have been redrawn: Shake’s half-lidded expression, Frylock’s red face and black goatee, Meatwad’s irregular eyes and one-tooth mouth, and Carl’s bald crown and moustache.
 
 ## Added in 0.29.0
 
-**Aqua Teen Hunger Force, plus Carl:** Master Shake fires drink blasts and complains; Frylock hovers and fires eye beams; Meatwad rolls and squishes with a cowboy-hat gag; Carl stomps, throws his drink, and complains about his pool.
+**Aqua Teen Hunger Force, plus Carl:** Master Shake fires drink blasts and complains; Frylock hovers and uses eye beams plus a fry blaster; Meatwad rolls and dances; Carl stomps, throws his drink, and complains about his pool.
 
 Choose **Aqua Teen Hunger Force · plus Carl** for the crew, or add individuals under **Mix & match guests · up to 12 → Aqua Teen Hunger Force**. All four join shared combat, and the group is included in the randomizer.
 
@@ -281,7 +294,14 @@ The release includes a SHA-256 checksum file so you can verify the downloaded di
 
 | Character | Specials |
 | --- | --- |
-| Master Shake | Drink blasts, expressive hands, and bossy complaints |
-| Frylock | Hovering, eye beams, and animated fries |
-| Meatwad | Rolling hops, squishy body animation, and a cowboy-hat gag |
+| Master Shake | Straw-fired drink blasts, restrained gestures, and complaints |
+| Frylock | Hovering, beams from both eyes, and an aimed fry blaster |
+| Meatwad | Rolling travel, rolling special, and rhythmic dancing |
 | Carl | Stomp, thrown drink, and pool-related complaints |
+
+### Mooninites
+
+| Character | Specials |
+| --- | --- |
+| Ignignokt | Green square shots; combines with Err to fire the slow Quad Laser |
+| Err | Magenta pixel companion; jumps into the combined firing pose and separates afterward |
