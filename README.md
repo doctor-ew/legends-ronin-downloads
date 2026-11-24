@@ -8,9 +8,22 @@ Built on **[Klipnok Ronin](https://klipnok.com/ronin/)**. The original desktop c
 
 [**Download for Mac — DMG**](https://github.com/doctor-ew/legends-ronin-downloads/releases/latest)
 
-![Character-only demo: saber combat, Transformers, and ATHF](assets/character-demo-v7.gif)
+![Close-up demo: BAMF, portals, saber damage, and recovery](assets/showcase-mechanics-v1.gif)
 
-[Open the 17-second GIF directly](assets/character-demo-v7.gif) · Combat, Transformers, ATHF, and Mooninites.
+## Close-up showcase videos
+
+Small casts, named characters, and staged timing make the mechanics easier to follow. The isolated clips use the app’s character artwork and behavior layer with a neutral practice ledge. The live desktop excerpt is cropped to characters and wallpaper; audio is removed.
+
+- [Desktop pets — 75 seconds](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-Desktop-Pets-75s.mp4)
+- [Adult Swim fan cast — 57 seconds](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-Adult-Swim-Fan-Cast-57s.mp4)
+- [Full cast sampler — 166 seconds](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-Full-Cast-Sampler.mp4)
+- [Live desktop crop — 8 seconds](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-Live-Desktop-8s.mp4)
+- [All 83 character/mechanic clips and collections](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-Showcase-Videos.zip)
+
+Collections: [Marvel / X-Men](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-Marvel-XMen.mp4) · [Transformers](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-Transformers-Closeups.mp4) · [Star Wars / Rebels / droids](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-Star-Wars-Rebels-Droids.mp4) · [Star Trek / Lower Decks](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-Star-Trek-Lower-Decks.mp4) · [G.I. Joe](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-GI-Joe.mp4)
+
+
+[Open the 18-second GIF directly](assets/showcase-mechanics-v1.gif) · BAMF, portals, saber damage, and recovery.
 
 **Videos:** [Mooninites](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-Mooninites-12s.mp4) · [40-second recap](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-Recap-40s.mp4) · [Combat](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-Combat-12s.mp4) · [Transformers](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-Transformers-16s.mp4) · [ATHF + Carl](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-ATHF-12s.mp4)
 
@@ -309,3 +322,7 @@ The release includes a SHA-256 checksum file so you can verify the downloaded di
 ## Mooninite reference artwork (0.31.2)
 
 Ignignokt and Err now use the supplied visual references: stepped silhouettes, asymmetric head ridges, angular expressions, thin blue limbs, and pink-handled brown pixel guns. The upside-down combine interlocks the revised head contours. Both remain in the six-character ATHF cast.
+
+### Adult Swim fan cast preview
+
+![ATHF and Mooninites closeups](assets/adult-swim-showcase-v1.gif)
