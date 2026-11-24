@@ -23,7 +23,11 @@ Built on **[Klipnok Ronin](https://klipnok.com/ronin/)**. The original desktop c
 
 The cast includes Star Wars and Rebels, the turtles, Rick and Morty, Doctor Strange and Doom, X-Men, G.I. Joe, Lower Decks, Cartoon Planet, and more.
 
-## New in 0.27.0
+## New in 0.27.1
+
+Soundwave’s cassette deck has a cleaner silhouette, visible reels, and playback controls. Laserbeak has been redrawn as a mechanical bird with swept, flapping wings, hooked beak, claws, and cannons. Rumble has clearer proportions, a defined face, and shorter alternating piledriver strokes.
+
+## Added in 0.27.0
 
 - **Grimlock:** articulated robot-to-T. rex transformation, prowling, snapping jaw, and fire breath.
 - **Soundwave:** robot-to-cassette-deck transformation and a chest that deploys **Laserbeak**, **Ravage**, and **Rumble**. The tapes unfold into a flying bird, prowling panther, and piledriver-equipped robot, then fold up and return.
