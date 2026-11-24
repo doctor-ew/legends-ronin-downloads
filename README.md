@@ -8,11 +8,11 @@ Built on **[Klipnok Ronin](https://klipnok.com/ronin/)**. The original desktop c
 
 [**Download for Mac — DMG**](https://github.com/doctor-ew/legends-ronin-downloads/releases/latest)
 
-![Character-only demo: saber combat, Transformers, and ATHF](assets/character-demo-v6.gif)
+![Character-only demo: saber combat, Transformers, and ATHF](assets/character-demo-v7.gif)
 
-[Open the 17-second GIF directly](assets/character-demo-v6.gif) · Combat, Transformers, ATHF, and Mooninites.
+[Open the 17-second GIF directly](assets/character-demo-v7.gif) · Combat, Transformers, ATHF, and Mooninites.
 
-**Videos:** [Mooninites](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.1/Legends-Ronin-Mooninites-12s.mp4) · [40-second recap](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.1/Legends-Ronin-Recap-40s.mp4) · [Combat](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.1/Legends-Ronin-Combat-12s.mp4) · [Transformers](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.1/Legends-Ronin-Transformers-16s.mp4) · [ATHF + Carl](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.1/Legends-Ronin-ATHF-12s.mp4)
+**Videos:** [Mooninites](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-Mooninites-12s.mp4) · [40-second recap](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-Recap-40s.mp4) · [Combat](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-Combat-12s.mp4) · [Transformers](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-Transformers-16s.mp4) · [ATHF + Carl](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.31.2/Legends-Ronin-ATHF-12s.mp4)
 
 All videos and GIFs are silent, character-only animations. No desktop, documents, or code appear in this media.
 
@@ -305,3 +305,7 @@ The release includes a SHA-256 checksum file so you can verify the downloaded di
 | --- | --- |
 | Ignignokt | Green square shots; combines with Err to fire the slow Quad Laser |
 | Err | Magenta pixel companion; flips upside down into the interlocking firing pose and separates afterward |
+
+## Mooninite reference artwork (0.31.2)
+
+Ignignokt and Err now use the supplied visual references: stepped silhouettes, asymmetric head ridges, angular expressions, thin blue limbs, and pink-handled brown pixel guns. The upside-down combine interlocks the revised head contours. Both remain in the six-character ATHF cast.
