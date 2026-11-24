@@ -23,7 +23,14 @@ Built on **[Klipnok Ronin](https://klipnok.com/ronin/)**. The original desktop c
 
 The cast includes Star Wars and Rebels, the turtles, Rick and Morty, Doctor Strange and Doom, X-Men, G.I. Joe, Lower Decks, Cartoon Planet, and more.
 
-## New in 0.26.0
+## New in 0.27.0
+
+- **Grimlock:** articulated robot-to-T. rex transformation, prowling, snapping jaw, and fire breath.
+- **Soundwave:** robot-to-cassette-deck transformation and a chest that deploys **Laserbeak**, **Ravage**, and **Rumble**. The tapes unfold into a flying bird, prowling panther, and piledriver-equipped robot, then fold up and return.
+- Add either through **Mix & match guests · up to 12 → Visitors**. Click Grimlock to transform; click Soundwave to deploy his crew when he is ready. Both act automatically, too.
+- Soundwave has one trio at a time. His tapes use his guest slot and return between outings.
+
+## Guest upgrades in 0.26.0
 
 - **Guest upgrades:** Strange and Doom alternate flights and their colored portals; Rick uses green portal travel; Nightcrawler flips, backflips, handstands, and bamfs; Boba uses his jetpack.
 - **Transformer guests:** add **Optimus Prime** or **Starscream** from **Mix & match guests · up to 12 → Visitors**. They transform independently alongside your existing cast.
@@ -52,7 +59,7 @@ The app lives in the menu bar. Look for **Legends** at the top of your screen.
 | --- | --- |
 | Choose a cast | Open the **Legends** menu, or right-click a character |
 | Add or remove guests | **Mix & match guests · up to 12** |
-| Add a Transformer guest | **Mix & match guests · up to 12 → Visitors → Optimus Prime / Starscream** |
+| Add a Transformer guest | **Mix & match guests · up to 12 → Visitors → Optimus Prime / Starscream / Grimlock / Soundwave** |
 | Trigger a special | Give a character a quick click |
 | Move a character | Click and drag |
 | Start a fight or encounter | **Skirmish now** or **Encounter now** |
@@ -219,6 +226,9 @@ Selecting a crew member brings all four.
 | AT-AT | Walks along the bottom of the screen and fires lasers |
 | Optimus Prime | Transforms between robot and truck; also available as an individual Visitor guest |
 | Starscream | Transforms between robot and jet; lands before changing back; also available as an individual Visitor guest |
+| Grimlock | Robot and T. rex forms, jaw animation, prowling, and fire breath; individual Visitor guest |
+| Soundwave | Robot and cassette-deck forms; deploys and recalls Laserbeak, Ravage, and Rumble; individual Visitor guest |
+| Laserbeak / Ravage / Rumble | Soundwave’s transforming tapes: flight, prowling, and piledriver shockwaves; supporting crew, not separate guest slots |
 | KITT | Moving scanner light and Turbo Boost jumps |
 | TARDIS | Flight, fading dematerialization and rematerialization, and a Doctor who exits and re-enters |
 | The Tenth Doctor | Walks outside the TARDIS and makes a sonic-style glow gesture |
