@@ -8,9 +8,13 @@ Built on **[Klipnok Ronin](https://klipnok.com/ronin/)**. The original desktop c
 
 [**Download for Mac — DMG**](https://github.com/doctor-ew/legends-ronin-downloads/releases/latest)
 
-![Legends Ronin action montage: saber fights, pogo hops, and a green portal](assets/desktop-action-montage-v2.gif)
+![Character-only demo: saber combat, Transformers, and ATHF](assets/character-demo-v3.gif)
 
-[Open the 12-second action GIF directly](assets/desktop-action-montage-v2.gif) · Saber flips, pogo hops, and portal trouble.
+[Open the 13-second GIF directly](assets/character-demo-v3.gif) · Combat, Transformers, and ATHF.
+
+**Videos:** [40-second recap](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.29.0/Legends-Ronin-Recap-40s.mp4) · [Combat](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.29.0/Legends-Ronin-Combat-12s.mp4) · [Transformers](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.29.0/Legends-Ronin-Transformers-16s.mp4) · [ATHF + Carl](https://github.com/doctor-ew/legends-ronin-downloads/releases/download/v0.29.0/Legends-Ronin-ATHF-12s.mp4)
+
+All videos and GIFs are silent, character-only animations. No desktop, documents, or code appear in this media.
 
 ## What it does
 
@@ -23,7 +27,13 @@ Built on **[Klipnok Ronin](https://klipnok.com/ronin/)**. The original desktop c
 
 The cast includes Star Wars and Rebels, the turtles, Rick and Morty, Doctor Strange and Doom, X-Men, G.I. Joe, Lower Decks, Cartoon Planet, and more.
 
-## New in 0.28.0
+## New in 0.29.0
+
+**Aqua Teen Hunger Force, plus Carl:** Master Shake fires drink blasts and complains; Frylock hovers and fires eye beams; Meatwad rolls and squishes with a cowboy-hat gag; Carl stomps, throws his drink, and complains about his pool.
+
+Choose **Aqua Teen Hunger Force · plus Carl** for the crew, or add individuals under **Mix & match guests · up to 12 → Aqua Teen Hunger Force**. All four join shared combat, and the group is included in the randomizer.
+
+## Combat updates in 0.28.0
 
 - **Lightsaber deflections:** Vader, Jedi, Maul, Qui-Gon, Obi-Wan, Kanan, Ezra, and Ahsoka can send cross-cast ranged shots back toward the attacker while holding their saber. Vader is especially good at it.
 - **Damaging saber throws:** main-cast and visiting returning sabers can damage characters they cross, up to three hits per target per throw, spaced apart.
@@ -261,3 +271,13 @@ Legends Ronin is a fan-made character and behavior layer built on the supplied *
 This public repository contains the README and demo media. Packaged app downloads are attached to [Releases](https://github.com/doctor-ew/legends-ronin-downloads/releases). Source code is not included, and this repository does not grant rights to third-party code or characters.
 
 The release includes a SHA-256 checksum file so you can verify the downloaded disk image. Updates are distributed through this release page.
+
+
+### Aqua Teen Hunger Force
+
+| Character | Specials |
+| --- | --- |
+| Master Shake | Drink blasts, expressive hands, and bossy complaints |
+| Frylock | Hovering, eye beams, and animated fries |
+| Meatwad | Rolling hops, squishy body animation, and a cowboy-hat gag |
+| Carl | Stomp, thrown drink, and pool-related complaints |
